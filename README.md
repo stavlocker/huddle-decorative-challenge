@@ -23,8 +23,11 @@ These are my solutions to some more obvious problems I encountered. Of course yo
   This one was pretty difficult, and also isn't easy to explain. So here's a <a href="https://github.com/stavlocker/huddle-decorative-challenge/blob/bc55aae08519a6be556c1826ddd111d9e042a583/style.css#L51">link</a> to the source code where I coded it.
   </blockquote></details>
 
-## Desktop Design (1440px)
+## The original designs
+These are previews of the original designs (for desktop & mobile). I also included the actual design files in the `/design` folder (these are what you get as part of the assets for the challenge).
+
+### Desktop Design (1440px)
 ![](https://api.frontendmentor.io/wp-content/uploads/2019/01/desktop-preview.jpg)
 
-## Mobile Design (375px)
+### Mobile Design (375px)
 ![](https://api.frontendmentor.io/wp-content/uploads/2019/01/mobile-preview.jpg)
